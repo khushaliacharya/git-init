@@ -1,0 +1,1 @@
+{\n  \"devDependencies\": {\n    \"vitest\": \"latest\",\n    \"@testing-library/react\": \"latest\",\n    \"@testing-library/jest-dom\": \"latest\"\n  }\n}
