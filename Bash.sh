@@ -1,0 +1,3 @@
+cd frontend
+npm create vite@latest . -- --template react
+npm install axios
