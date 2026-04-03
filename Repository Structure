@@ -1,0 +1,25 @@
+focusflow/
+├── backend/
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── models.py
+│   │   └── routes/
+│   │       ├── __init__.py
+│   │       └── tasks.py
+│   ├── config.py
+│   ├── requirements.txt
+│   └── run.py
+├── frontend/
+│   ├── src/
+│   │   ├── api.js
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── pages/
+│   │       └── Dashboard.jsx
+│   ├── package.json
+│   └── vite.config.js
+├── .ai/
+│   ├── claude.md
+│   ├── coding-standards.md
+│   └── prompt-template.md
+└── README.md
